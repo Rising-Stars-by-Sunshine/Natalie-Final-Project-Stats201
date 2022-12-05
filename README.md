@@ -1,4 +1,4 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Predicting share of Korean urban population in Seoul
 ## Project information
 - **Author**: Natalie Aramendia, Computation & Design, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
