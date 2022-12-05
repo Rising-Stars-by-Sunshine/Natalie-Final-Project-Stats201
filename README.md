@@ -1,10 +1,10 @@
 # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Natalie Aramendia, Computation & Design, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: A special thanks to professor Luyao for guiding us on code and resources to use for completing this project
+
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -13,38 +13,34 @@
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
 
-## Table of Contents
-- data
-- code
-- spotlight
-- more about the author
-- references
+| Table of Contents|
+| -----------------|
+| [data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data) |
+| [code](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/code)|
+| [spotlight](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight) |
+| [more about the author]()|
+| [references]()|
 
 
+| Data |
+|------|
+| [Data source](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR)|
+| [Queried data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Queried_Data) |
+| [Processed data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Processed_Data) |
 
-## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+| Code |
+|------|
+| [Process data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/blob/main/code/Natalie_Process.ipynb) |
+| [Analyze data](linear_model.Ridge(alpha=.5))|
 
 
-## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
 
 ## More about the Author
-- headshot
+![image](https://user-images.githubusercontent.com/89420894/205748526-cf32e1bf-003b-4381-b1b4-195c9135a0bc.png)
+
 - self-introduction
 - Final reflections 
 
