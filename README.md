@@ -15,23 +15,22 @@
 
 | Table of Contents|
 | -----------------|
-| [data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data) |
-| [code](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/code)|
-| [spotlight](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight) |
+| [data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data) |
+| [code](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/code)|
+| [spotlight](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/spotlight) |
 | [more about the author]()|
 | [references]()|
 
 
 | Data |
 |------|
-| [Data source](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR)|
-| [Queried data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Queried_Data) |
-| [Processed data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Processed_Data) |
+| [Queried data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data/Queried_Data) |
+| [Processed data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data/Processed_Data) |
 
 | Code |
 |------|
-| [Process data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/blob/main/code/Natalie_Process.ipynb) |
-| [Analyze data](linear_model.Ridge(alpha=.5))|
+| [Process data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Process.ipynb)) |
+| [Analyze data]|
 
 
 
@@ -39,7 +38,7 @@
 
 
 ## More about the Author
-![image](https://user-images.githubusercontent.com/89420894/205748526-cf32e1bf-003b-4381-b1b4-195c9135a0bc.png)
+- image
 
 - self-introduction
 - Final reflections 
