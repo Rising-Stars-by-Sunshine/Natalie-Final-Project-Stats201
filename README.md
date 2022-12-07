@@ -30,7 +30,7 @@
 | Code |
 |------|
 | [Process data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Process.ipynb)) |
-| [Analyze data]|
+| [Analyze data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Analyze.ipynb)|
 
 
 
