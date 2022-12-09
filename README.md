@@ -7,7 +7,8 @@
 - **Acknowledgments**: A special thanks to professor Luyao Zhang for providing code and resources for completing this project. I would also like to thank Haoyang Yu for helping me set up my virtual machine and providing insightful peer feedback. 
 
 - **Project Summary**: 
- Background/Motivation:
+
+Background/Motivation:
 Changes in a country's economic health frequently lead to changes in population migration and distribution. This was evident with COVID-19, where large cities saw great numbers of residents leaving in search of cheaper and more spacious housing (Martel 2020). This project hopes to predict the future share of the population living in a country's largest city from the national GDP. For this project we will use historical data on Seoul, South Korea from 1960-2021 because of the rapid economic change Korea has undergone in the last few decades.
  
  
@@ -15,8 +16,8 @@ Research Question:
 How can we predict changes in the share of the urban population in a country's largest city from national GDP?
  
 Data Source:
-Data for GDP: GDP (current US$) - Korea, Rep. | Data (worldbank.org)
-Data for the share of the population in the largest city: Urbanization - Our World in Data
+[Data for GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR)
+[Data for the share of the population in the largest city](https://ourworldindata.org/urbanization)
  
 Methodology:
 For this project, different machine algorithms (Random Forest, Multi-layer, and Ridge regression classifiers) will be applied to predict the future population of Seoul using time series data from the past 5 years. Causal Inference will then be used to understand if changes in GDP are related to changes in population. The X will be GDP, Y population, and Z will be the date of January 20, 2020 - the date of the first covid case in Seoul, South Korea (Cha 2020). The determined relationship will then be used to predict future population data.
@@ -36,6 +37,7 @@ Previous research had modeled urban growth concerning other factors, for example
 - references
 
 
+
 | Data |
 |------|
 | [Queried data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data/Queried_Data) |
@@ -43,7 +45,7 @@ Previous research had modeled urban growth concerning other factors, for example
 
 | Code |
 |------|
-| [Process data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Process.ipynb)) |
+| [Process data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Process.ipynb) |
 | [Analyze data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Analyze.ipynb)|
 
 
@@ -63,15 +65,28 @@ Natalie is a sophomore at Duke Kunshan University. She is studying Computation &
 ## References
 
 ### Data Source
-- Data Source Title and URL
+Data for GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR
+Data for the share of the population in the largest city: https://ourworldindata.org/urbanization
+
 ### Code Source
 - Code Source Title and URL
 ### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+Cha, Victor. “A Timeline of South Korea’s Response to COVID-19.” Csis.org, 2020, www.csis.org/analysis/timeline-south-koreas-response-covid-19.
+
+Martel, Eric. “Are People Really Fleeing Cities because of COVID? Here’s What the Data Shows.” Fortune, 1 Dec. 2020, fortune.com/2020/07/17/people-leaving-cities-coronavirus-data-population-millennials-marriage-families-housing-real-estate-suburbs/.
+
+### Literature
+
+Kim, Yuna, et al. “Machine Learning Application to Spatio-Temporal Modeling of Urban Growth.” Computers, Environment and Urban Systems, vol. 94, June 2022, p. 101801, 10.1016/j.compenvurbsys.2022.101801.
+https://www.sciencedirect.com/science/article/pii/S019897152200045X
+
+Kutty, Adeeb A., et al. “Urban Resilience and Livability Performance of European Smart Cities: A Novel Machine Learning Approach.” Journal of Cleaner Production, vol. 378, Dec. 2022, p. 134203, 10.1016/j.jclepro.2022.134203.
+https://www.sciencedirect.com/science/article/pii/S0959652622037751
+ 
+Ron-Ferguson, Nathan, et al. “Leveraging Machine Learning to Understand Urban Change with Net Construction.” Landscape and Urban Planning, vol. 216, Dec. 2021, p. 104239, 10.1016/j.landurbplan.2021.104239.
+https://www.sciencedirect.com/science/article/pii/S0169204621002024
+
 
 ```
 @article{levin2022bridging,
