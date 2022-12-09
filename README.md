@@ -54,6 +54,21 @@ Previous research had modeled urban growth concerning other factors, for example
 
 ## Spotlight
 
+![image](https://user-images.githubusercontent.com/89420894/206804346-6f24b526-bd4c-44a7-8eb7-2e64d5f997d8.png)
+**Figure 1: Project poster**
+
+Source: created using [canva](https://www.canva.com/design/DAFT0JQBBEk/f5DFuYQpuyg7bQZilRcDuQ/edit)
+
+Figure 1 is the poster for this project. It displays the research question, data source, methodology, results, and contribution to literature. 
+
+![image](https://user-images.githubusercontent.com/89420894/206804541-f46e430d-c895-4c96-8560-794dcdb9d0af.png)
+**Figure 3: Confusion matrix from random forest classifier**
+
+Source: data sourced from [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees)
+
+
+
+
 
 ## More about the Author
 - image
