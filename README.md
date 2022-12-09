@@ -8,24 +8,26 @@
 
 - **Project Summary**: 
 
-Background/Motivation:
+**Background/Motivation:**
 Changes in a country's economic health frequently lead to changes in population migration and distribution. This was evident with COVID-19, where large cities saw great numbers of residents leaving in search of cheaper and more spacious housing (Martel 2020). This project hopes to predict the future share of the population living in a country's largest city from the national GDP. For this project we will use historical data on Seoul, South Korea from 1960-2021 because of the rapid economic change Korea has undergone in the last few decades.
  
  
-Research Question: 
+**Research Question:**
 How can we predict changes in the share of the urban population in a country's largest city from national GDP?
  
-Data Source:
+**Data Source:**
+
 [Data for GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR)
+
 [Data for the share of the population in the largest city](https://ourworldindata.org/urbanization)
  
-Methodology:
+**Methodology:**
 For this project, different machine algorithms (Random Forest, Multi-layer, and Ridge regression classifiers) will be applied to predict the future population of Seoul using time series data from the past 5 years. Causal Inference will then be used to understand if changes in GDP are related to changes in population. The X will be GDP, Y population, and Z will be the date of January 20, 2020 - the date of the first covid case in Seoul, South Korea (Cha 2020). The determined relationship will then be used to predict future population data.
  
-Results:
+**Results:**
 We expect to find that future GDP can be used to predict the future share of the population living in the largest city using the relationship between historical GDP data and historical population data.
  
-Intellectual Merits and Practical impacts:
+**Intellectual Merits and Practical impacts:**
 Previous research had modeled urban growth concerning other factors, for example, net construction, but has not been researched concerning GDP. Seoul, South Korea, will be the case study used; This project can later be used to predict population distribution for other global cities and applied in future research when analyzing how economic factors drive human movement and density.
 
 
