@@ -61,13 +61,18 @@ Source: created using [canva](https://www.canva.com/design/DAFT0JQBBEk/f5DFuYQpu
 
 Figure 1 is the poster for this project. It displays the research question, data source, methodology, results, and contribution to literature. 
 
+<img width="1034" alt="image" src="https://user-images.githubusercontent.com/89420894/206878532-a2c28bb6-ad58-43ce-bbf5-f25222dc146d.png">
+**Figure 2: Share of Korean urban population living in Seoul
+
+Figure 2 is shows the share of Korean urban population living in Seoul (Korea's largest city) from 1960 to 2021. This visualization is a scatterplot; the Y-axis shows the population as a percentage and the X-value shows the year. We can see that the share of Korean urban population in Seoul was steadily increasing in the decade between 1960 to 1970. After peaking in 1970, the share of population has been decreasing ever since.  
+
 ![image](https://user-images.githubusercontent.com/89420894/206804541-f46e430d-c895-4c96-8560-794dcdb9d0af.png)
 
 **Figure 3: Confusion matrix from random forest classifier**
 
 Source: data sourced from [Our World in Data](https://ourworldindata.org/urbanization) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees)
 
-Figure 2 is a confusion matrix for the random forest classifier algorithm for population prediction, using 5 year times series analysis. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in population and 1 represents an increase in population. The precision is TP/(TP+FP) = 9/9 = 1. The recall is TP/(TP+FN) = 9/10 = 0.9.
+Figure 3 is a confusion matrix for the random forest classifier algorithm for population prediction, using 5 year times series analysis. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in population and 1 represents an increase in population. The precision is TP/(TP+FP) = 9/9 = 1. The recall is TP/(TP+FN) = 9/10 = 0.9.
 
 references:  https://www.v7labs.com/blog/confusion-matrix-guide
 
