@@ -84,6 +84,10 @@ references:  https://www.v7labs.com/blog/confusion-matrix-guide
 ## More about the Author
 - image
 
+<img src="./image/Edits-114 (5).jpg" width="250" />
+
+
+
 Natalie is a sophomore at Duke Kunshan University. She is studying Computation & Design, with a track in Social Policy, and concentration in Urban Design. She hopes to work in urban analytics & tech, and use machine learning to help solve urban issues. 
 
 - Final reflections 
