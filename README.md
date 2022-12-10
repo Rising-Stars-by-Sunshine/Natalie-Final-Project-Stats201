@@ -84,7 +84,7 @@ references:  https://www.v7labs.com/blog/confusion-matrix-guide
 ## More about the Author
 - image
 
-<img src="./image/Edits-114 (5).jpg" width="250" />
+<img src="./Image/tomate.jpg" width="250" />
 
 
 
