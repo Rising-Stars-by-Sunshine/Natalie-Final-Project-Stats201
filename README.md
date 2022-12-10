@@ -60,8 +60,8 @@ Previous research had modeled urban growth concerning other factors, for example
 Source: created using [canva](https://www.canva.com/design/DAFT0JQBBEk/f5DFuYQpuyg7bQZilRcDuQ/edit)
 Figure 1 is the poster for this project. It displays the research question, data source, methodology, results, and contribution to literature. 
 
-<img width="1034" alt="image" src="https://user-images.githubusercontent.com/89420894/206878532-a2c28bb6-ad58-43ce-bbf5-f25222dc146d.png">
-**Figure 2: Share of Korean urban population living in Seoul
+<img width="1075" alt="image" src="https://user-images.githubusercontent.com/89420894/206879450-a56c2b6a-124d-46a3-989b-898ec2161874.png">
+**Figure 2: Share of Korean urban population living in Seoul**
 
 Figure 2 is shows the share of Korean urban population living in Seoul (Korea's largest city) from 1960 to 2021. This visualization is a scatterplot; the Y-axis shows the population as a percentage and the X-value shows the year. We can see that the share of Korean urban population in Seoul was steadily increasing in the decade between 1960 to 1970. After peaking in 1970, the share of population has been decreasing ever since.  
 
