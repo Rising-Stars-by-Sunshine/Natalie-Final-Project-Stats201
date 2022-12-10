@@ -58,6 +58,7 @@ Previous research had modeled urban growth concerning other factors, for example
 **Figure 1: Project poster**
 
 Source: created using [canva](https://www.canva.com/design/DAFT0JQBBEk/f5DFuYQpuyg7bQZilRcDuQ/edit)
+
 Figure 1 is the poster for this project. It displays the research question, data source, methodology, results, and contribution to literature. 
 
 <img width="1075" alt="image" src="https://user-images.githubusercontent.com/89420894/206879450-a56c2b6a-124d-46a3-989b-898ec2161874.png">
@@ -71,6 +72,7 @@ Figure 2 is shows the share of Korean urban population living in Seoul (Korea's 
 **Figure 3: Confusion matrix from random forest classifier**
 
 Source: data sourced from [Our World in Data](https://ourworldindata.org/urbanization) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees)
+
 Figure 3 is a confusion matrix for the random forest classifier algorithm for population prediction, using 5 year times series analysis. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in population and 1 represents an increase in population. The precision is TP/(TP+FP) = 9/9 = 1. The recall is TP/(TP+FN) = 9/10 = 0.9.
 
 references:  https://www.v7labs.com/blog/confusion-matrix-guide
