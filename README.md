@@ -100,6 +100,9 @@ Data for GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR
 Data for the share of the population in the largest city: https://ourworldindata.org/urbanization
 
 ### Code Source
+
+[rising-Stars-by-Sunshine/stats201-profile](https://github.com/Rising-Stars-by-Sunshine/stats201-profile/tree/main/code)
+
 - Code Source Title and URL
 ### Articles
 
@@ -119,16 +122,4 @@ Ron-Ferguson, Nathan, et al. “Leveraging Machine Learning to Understand Urban 
 https://www.sciencedirect.com/science/article/pii/S0169204621002024
 
 
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
 
