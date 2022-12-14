@@ -63,17 +63,20 @@ Figure 1 is the poster for this project. It displays the research question, data
 
 <img width="1075" alt="image" src="https://user-images.githubusercontent.com/89420894/206879450-a56c2b6a-124d-46a3-989b-898ec2161874.png">
 
-**Figure 2: Share of Korean urban population living in Seoul**
+![image](https://user-images.githubusercontent.com/89420894/207613942-26c948d8-92b3-40ae-b35d-a79bda024e83.png)
+**Figure 2: Contribution to literature (using [whimsical](https://whimsical.com/contribution-to-lit-2Wvf1uC1WdG8gzZf3y7pqU))
 
-Figure 2 is shows the share of Korean urban population living in Seoul (Korea's largest city) from 1960 to 2021. This visualization is a scatterplot; the Y-axis shows the population as a percentage and the X-value shows the year. We can see that the share of Korean urban population in Seoul was steadily increasing in the decade between 1960 to 1970. After peaking in 1970, the share of population has been decreasing ever since.  
+**Figure 3: Share of Korean urban population living in Seoul**
+
+Figure 3 is shows the share of Korean urban population living in Seoul (Korea's largest city) from 1960 to 2021. This visualization is a scatterplot; the Y-axis shows the population as a percentage and the X-value shows the year. We can see that the share of Korean urban population in Seoul was steadily increasing in the decade between 1960 to 1970. After peaking in 1970, the share of population has been decreasing ever since.  
 
 ![image](https://user-images.githubusercontent.com/89420894/206804541-f46e430d-c895-4c96-8560-794dcdb9d0af.png)
 
-**Figure 3: Confusion matrix from random forest classifier**
+**Figure 4: Confusion matrix from random forest classifier**
 
 Source: data sourced from [Our World in Data](https://ourworldindata.org/urbanization) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees)
 
-Figure 3 is a confusion matrix for the random forest classifier algorithm for population prediction, using 5 year times series analysis. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in population and 1 represents an increase in population. The precision is TP/(TP+FP) = 9/9 = 1. The recall is TP/(TP+FN) = 9/10 = 0.9.
+Figure 4 is a confusion matrix for the random forest classifier algorithm for population prediction, using 5 year times series analysis. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in population and 1 represents an increase in population. The precision is TP/(TP+FP) = 9/9 = 1. The recall is TP/(TP+FN) = 9/10 = 0.9.
 
 references:  https://www.v7labs.com/blog/confusion-matrix-guide
 
@@ -97,6 +100,7 @@ Natalie is a sophomore at Duke Kunshan University. She is studying Computation &
 
 ### Data Source
 Data for GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR
+
 Data for the share of the population in the largest city: https://ourworldindata.org/urbanization
 
 ### Code Source
