@@ -91,7 +91,7 @@ references:  https://www.v7labs.com/blog/confusion-matrix-guide
 
 
 
-Natalie is a sophomore at Duke Kunshan University. She is studying Computation & Design, with a track in Social Policy, and concentration in Urban Design. She hopes to work in urban analytics & tech, and use machine learning to help solve urban issues. Natalie saw the variety of methods used to solve similar social  problems and the scope to which machine learning can be applied to with this project. She learned about how to use time series data to predict the future, the variables needed, and how to effectively communiate ideas with visualizations. 
+Natalie is a sophomore at Duke Kunshan University. She is studying Computation & Design, with a track in Social Policy, and concentration in Urban Design. She hopes to work in urban analytics & tech, and use machine learning to help solve urban issues. Natalie saw the variety of methods used to solve similar social  problems and the scope to which machine learning can be applied to with this project. She learned about how to use time series data to predict the future, the variables needed, and how to effectively communiate ideas with visualizations. She also learned about confusion matrix and how it can be used to understand the different algorithms performed. 
 
 ## References
 
@@ -104,7 +104,6 @@ Data for the share of the population in the largest city: https://ourworldindata
 
 [rising-Stars-by-Sunshine/stats201-profile](https://github.com/Rising-Stars-by-Sunshine/stats201-profile/tree/main/code)
 
-- Code Source Title and URL
 ### Articles
 
 Cha, Victor. “A Timeline of South Korea’s Response to COVID-19.” Csis.org, 2020, www.csis.org/analysis/timeline-south-koreas-response-covid-19.
