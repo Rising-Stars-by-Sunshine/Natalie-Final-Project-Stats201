@@ -91,11 +91,7 @@ references:  https://www.v7labs.com/blog/confusion-matrix-guide
 
 
 
-Natalie is a sophomore at Duke Kunshan University. She is studying Computation & Design, with a track in Social Policy, and concentration in Urban Design. She hopes to work in urban analytics & tech, and use machine learning to help solve urban issues. 
-
-- Final reflections 
-
-[how to apply a various machine learning methods to solve social science issues?]
+Natalie is a sophomore at Duke Kunshan University. She is studying Computation & Design, with a track in Social Policy, and concentration in Urban Design. She hopes to work in urban analytics & tech, and use machine learning to help solve urban issues. Natalie saw the variety of methods used to solve similar social  problems and the scope to which machine learning can be applied to with this project. She learned about how to use time series data to predict the future, the variables needed, and how to effectively communiate ideas with visualizations. 
 
 ## References
 
