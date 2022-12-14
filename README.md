@@ -61,11 +61,10 @@ Source: created using [canva](https://www.canva.com/design/DAFT0JQBBEk/f5DFuYQpu
 
 Figure 1 is the poster for this project. It displays the research question, data source, methodology, results, and contribution to literature. 
 
-<img width="1075" alt="image" src="https://user-images.githubusercontent.com/89420894/206879450-a56c2b6a-124d-46a3-989b-898ec2161874.png">
-
 ![image](https://user-images.githubusercontent.com/89420894/207613942-26c948d8-92b3-40ae-b35d-a79bda024e83.png)
 **Figure 2: Contribution to literature (using [whimsical](https://whimsical.com/contribution-to-lit-2Wvf1uC1WdG8gzZf3y7pqU))
 
+<img width="1075" alt="image" src="https://user-images.githubusercontent.com/89420894/206879450-a56c2b6a-124d-46a3-989b-898ec2161874.png">
 **Figure 3: Share of Korean urban population living in Seoul**
 
 Figure 3 is shows the share of Korean urban population living in Seoul (Korea's largest city) from 1960 to 2021. This visualization is a scatterplot; the Y-axis shows the population as a percentage and the X-value shows the year. We can see that the share of Korean urban population in Seoul was steadily increasing in the decade between 1960 to 1970. After peaking in 1970, the share of population has been decreasing ever since.  
